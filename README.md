@@ -1,2 +1,2 @@
 # MLOP-zoomcamps
-No thing yet
+Practice MLOps based on MLOP-Zoomcamp course
